@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /cv/
 title: CV
-tags: [CV, cv]
+tags: [programming, cv]
 modified: 4-14-2019
 comments: false
 ---

@@ -11,27 +11,17 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2025|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
-|----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|2025|Fall  | **<a href="">Computer Lab</a>** |
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2022|Summer| **<a href="/ad97/">Programming with Python for Beginners</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
+|2023|Summer| **<a href="/ap97/">Intermediate Python</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
+|2023|Fall  | **<a href="/nlp97/">Advanced Python</a>** |
 |----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
-|----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
-|----|------|--------------------------------------------|
-|2018|Fall  | **Natural Language Processing (Graduate)** |
-|----|------|--------------------------------------------|
-|2018|Spring| **Advanced Programming - C#**             |
-|----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2024|Winter  | **<a href="/ds97/">AI & Computer Vision</a>** |
