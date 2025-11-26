@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Reyhan Shabani"
 title_separator          : "-"
 name                     : "Reyhan" 
-description              : "Welcome to my web site."
+description              : "Welcome to my personal web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Reyhan Shabani"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_photo.png"
   bio              : I'm CE student.
   location         : "Tehran"
   email            : reihansh2006@gmail.com
