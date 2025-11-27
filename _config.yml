@@ -112,7 +112,7 @@ author:
   bio              : I'm CE student.
   location         : "Tehran"
   email            : reihansh2006@gmail.com
-  twitter: sauleh_e
+  twitter: reihanhoin
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: reyhanshabani
@@ -126,7 +126,7 @@ author:
       # url: "https://reyhanshabani.github.io/ReyhanShabani/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/reihanhoin/"
+      # url: "https://x.com/reihanhoin/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
