@@ -16,7 +16,7 @@ I’m a beginner programmer currently learning *Python* and *C*. I’m focused o
 
 ## Skills
 Programming with Pyhton - Advanced
-English - Advanced
-German - Intermediate
 
-## Experience or Achievements
+English - Advanced
+
+German - Intermediate

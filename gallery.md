@@ -7,7 +7,6 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false  
 ---
-I love the clouds a lot
 ![alt text](../assets\images\p1.jpg)
 
 ---
