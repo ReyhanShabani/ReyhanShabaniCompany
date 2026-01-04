@@ -7,15 +7,15 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false  
 ---
-![alt text](../assets\images\p1.jpg)
+![alt text](https://www.coxblue.com/wp-content/uploads/2019/02/technology-company.jpg)
 
 ---
-![alt text](../assets\images\p2.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6LRCIa0-TvrvuasxOh8cRcMIyeq_FE0ipQ&s)
 
 ---
-![alt text](../assets\images\p3.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcRzoB_lVBaZv8WSGqkHR9iNhhlvvLjFAaw&s)
 
 ---
-![alt text](../assets\images\p4.jpg)
+<!-- ![alt text](../assets\images\p4.jpg)
 
----
+--- -->
