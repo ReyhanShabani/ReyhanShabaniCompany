@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Reyhan Shabani"
+title                    : "RSH Company"
 title_separator          : "-"
 name                     : "Reyhan" 
 description              : "Welcome to my personal web site."
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reyhan Shabani"
+  name             : "RSH"
   avatar           : "/assets/images/c_photo2.jpg"
   bio              : "Contact with us:"
   location         : "Tehran, Iran"
