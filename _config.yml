@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Reyhan Shabani"
+title                    : "RSH Company"
 title_separator          : "-"
 name                     : "Reyhan" 
 description              : "Welcome to my personal web site."
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reyhan Shabani"
-  avatar           : "/assets/images/my_photo2.jpg"
+  name             : "RSH"
+  avatar           : "/assets/images/.jpg"
   bio              : I'm CE student.
   location         : "Tehran"
   email            : reihansh2006@gmail.com
